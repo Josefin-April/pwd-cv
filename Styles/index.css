@@ -1,0 +1,74 @@
+body{
+    width: 100%;
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+} 
+/*how can I add a background image?*/
+
+h1 {
+    margin: 10px;
+    text-align: center;
+    color: #FFB5EE;
+    font-weight: 500;
+    background-color: #3C9C7E;
+
+}
+
+.vertical-menu {
+    text-align: right;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #CCE8CC;
+}
+
+div style {
+    background-image: url('assets/images/backgroundsmall.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.2;
+    /*How can I get the background image centered and smaller?*/
+}
+
+h3 {
+    text-align: center;
+    color: #F3E8EE;
+}
+
+p {
+    text-align: center;
+    color: #F3E8EE;
+}
+ul {
+    text-align: center;
+    color: #FFB5EE;
+}
+img {
+    width: 800px;
+    height: 600px;
+    align-items: center;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+/*can I center the image? */
+}
+
+
+
+
+
+footer {
+    background-color: #3C9C7E;
+}
+
+h2 {
+    text-align: center;
+    color: #FFB5EE;
+}
